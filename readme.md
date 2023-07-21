@@ -1,6 +1,6 @@
-# To do list
+# Todo list
 
-## Setup
+- `npm install` to install dependecies
+- `npm start` to start project
 
-1. `npm i ` to install dependecies
-2. `npm run preprare` to project
+![Todo](/todo-front.png)
